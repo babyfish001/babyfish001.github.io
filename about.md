@@ -7,23 +7,21 @@ permalink: /about/
 <img class="col one right" src="/img/GGB.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+Well, not sure what to put here. I am still on the way to understand myself and the world. 
+Nevertheless, would like to share my learnings and thoughts with everyone. 
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+Recently,  I finished reading << A brief history of Time>>. It reminds of my life for the past ten years as a physics student. I really feel fortunate to have chosen physics as my major. Before that, I don't have much curiosity about whatsoever. It is the physics training, that leads me step by step on the road of understanding the nature, transforming me from a young adult with unrealistic romantic thoughts into a serious people with logic thinking. You know i am kidding here, don't you? From time to time, you wonder what is the meaning of life. For me, maybe understanding the nature and universe is one big part of it. 
 
+After ten years of tough training in equations and and all kinds of experiments, I still keep a little bit of romantic gene in my DNA which I would call my love of life. I enjoy reading, talking to all kinds of people in different time and space, not interupted by the chaoic reality. I enjoy photography, recording the nature with my feelings forever. 
+
+Maybe I will add more..To be continured
 
 <br/>
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="mailto:wawayu.yhcsh@example.com"><i class="fa fa-envelope-square"></i></a>
+
 </span>
 
-<div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
-</div>
 
