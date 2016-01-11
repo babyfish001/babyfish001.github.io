@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <Valley Boy>  Notes
+title: Valley Boy Notes
 date: 2016-01-10 
 ---
 
